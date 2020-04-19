@@ -4,6 +4,8 @@
 	## This is a heading
 	### This is a subheading
 
+	大家好，这是我的博客。
+
 	You can change the background colours with the css variables defined at the start of `site/assets/css/main.css`.
 
 	You can do $\LaTeX$ equations thanks to MathJaX. Both `$..$` and `\(..\)` work for inline equations, and both `$$..$$` and `\[..\]` work for displayed equations (note inside markdown/showdown blocks use `\\(..\\)` and `\\[..\\]`, or the `$` syntax). Eg. When \\(a \ne 0\\), there are two solutions to $ax^2 + bx + c = 0$ and they are:
