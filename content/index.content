@@ -1,12 +1,7 @@
 <textarea class="markdown">
-	## Gradient Blog Repository Template
-	This is the homepage for the nsm blog repository template **gradient-blog** [[BitBucket](https://bitbucket.org/nsm-blogs/gradient-blog), [GitHub](https://github.com/nsm-blogs/gradient-blog), [GitLab](https://gitlab.com/nsm-blogs/gradient-blog)]. [Nift](https://nift.cc) (aka nsm) is a cross-platform open source git-like and $\LaTeX$-like site manager coded in C++.
+	## 艾鑫的个人网站
 
-	This website uses [Showdown](http://showdownjs.com/) to convert Markdown to HTML.
+	这里是艾鑫的个人网站。我在2018年硕士毕业于三峡大学粒子物理与原子核物理专业，现在[深圳市海柔创新科技有限公司](http://www.hairobotics.com/)担任优化算法工程师。
 
-	You can import (or fork and rename) the **gradient-blog** blog repository template to begin making your own website with the same design.
 
-	See the [About](@pathto(about)) page for information about adding/removing pages to/from your site and modifying the content/layout of your site.
-
-	See the [FAQ](@pathtopage(faq)) page for how to import/fork this repository along with answers to other frequently asked questions.
 </textarea>
