@@ -1,0 +1,7 @@
+<center><h2>Large-Scale C++: 声明、定义与Linkage</h2></center>
+
+<textarea class="markdown">
+	## Large-Scale C++: 声明、定义与Linkage
+
+	最近在读John Lakos的《Large-Scale C++: Process and Architecture》, 现在读到了1.3节：Declarations, Definitions, and Linkage，写一下读书笔记。
+</textarea>
