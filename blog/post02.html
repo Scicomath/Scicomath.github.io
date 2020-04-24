@@ -47,10 +47,20 @@
         </div>
 
 		<div class="content">
-			<center><h2>Post 2: A project I recently finished</h2></center>
+			<center><h2>Large-Scale C++: 声明、定义与Linkage</h2></center>
 			
 			<textarea class="markdown">
-				Markdown content goes here, you could put it in a new markdown file *blog/post02.md* if you wanted and then have @input(blog/post02.md). Or you could move the \<textarea\> tags in to the page template **template/page.template** and set the default extension in *.siteinfo/nsm.config* to **.md**. You may also like to play with the css for headers to have them automatically centre, that way your Markdown headers will be centred.
+				## 介绍
+				
+				最近在读John Lakos的《Large-Scale C++: Process and Architecture》, 现在读到了1.3节：Declarations, Definitions, and Linkage，写一下本节读书笔记。
+			
+				我感觉Lakos的书挺难读的，除了C++本身比较难之外，他写书的语言也挺绕的，动不动就一个超长的长句，对于我这种英语水平一般的读者来说，理解起来挺困难的。不过我觉得再难也要坚持啃下去，因为我觉得这本书非常有价值。
+			
+				在一个程序的构建过程中最常见的事情就是将一个命名的实体与它的定义结合起来。这里的“命名的实体“有点太过抽象了，简单的来说就是那些可以有名字的一些”东西“，比如变量，函数，类型还有模板，这些都属于命名的实体。在代码中，我们会大量的用这些实体的名字来指代这些实体。对于编译器来说，名字本身，对编译器是没有任何意义的，它是指一个代号而已。当我们在程序里面使用一个名字的时候，我们其实指的是名字背后对应的那个实体（不管它是变量还是函数等等）。
+			
+				未完待续。。。
+			
+				
 			</textarea>
 		</div>
 
